@@ -33,17 +33,22 @@ The Department of Chinese and Bilingual Studies at the Hong Kong Polytechnic Uni
 **Dr. Zhenghan QI**
 
 *Assistant Professor, Department of Communication Sciences and Disorders and Department of Psychology, Northeastern University, USA*
+
 Dr. Qi directs the Language Acquisition and Brain Laboratory (QLAB). Her research goal is to understand the neurobiological organization of language in the human brain, how that organization changes from childhood through adulthood, how it is disrupted in major neurodevelopmental language disorders, and how knowledge of that organization may enhance language learning and language intervention.
 She uses behavioral and neuroimaging techniques to study the relationship between language learning, cognitive skills, and brain development in both children and adults.
+
 **Keynote Title: Is Implicit Statistical Learning Special for Language Development?**
 
 **Abstract:** The implicit ability to detect and extract regularities and variabilities from sensory inputs is a building block of human cognition. However, the developmental trajectories paradoxically differ between implicit statistical learning across linguistic and non-linguistic domains. I will first present behavioral studies that demonstrate the asymmetry between domains. I will then discuss findings from fMRI and EEG work that point to different processing mechanisms between children and adults.
 
 **Professor Xin KANG**
+
 *Professor, Research Centre for Language, Cognition and Language Application, Chongqing University, China*
 Prof. Xin Kang is a Professor at the Research Centre for Language, Cognition and Language Application at Chongqing University, China. She received her Ph.D. in Psychology from the University of York, UK. Her research focuses on the cognitive, neural, and genetic bases of language learning and processing, with particular emphasis on autism spectrum disorder (ASD). Using behavioral and neuroimaging techniques, including storytelling, eye-tracking, and ERPs, Dr. Kang investigates how both typically developing individuals and those with ASD process and learn language.
 Her work has been published in prestigious journals including Scientific Data, Science Advances, and npj Science of Learning. Currently, she leads multiple funded projects examining predictive language processing and mental representations in children with ASD and those living in disadvantaged conditions.
+
 **Keynote Title: Are young children with autism spectrum disorder impaired in predictive language processing?**
+
 **Abstract:** Understanding predictive language processing in autism spectrum disorder (ASD) is crucial for unraveling the cognitive mechanisms underlying communication challenges in this population. While existing studies suggest that individuals with ASD may anticipate upcoming linguistic information, most rely on eye-tracking paradigms with short sentences as stimuli, raising questions about generalizability. In this talk, I present empirical evidence collected from preschool children with ASD and neurotypical children in disadvantaged rural China. Our findings indicate that while children with ASD exhibit intact predictive abilities in simple language tasks, they face difficulties in more complex, real-time processing, particularly involving object-state changes. These results not only contribute to our understanding of language prediction in ASD but also underscore the importance of developing interventions that account for processing demands of complex linguistic stimuli.
 
 ### DETAILED PROGRAM
@@ -129,7 +134,9 @@ Her work has been published in prestigious journals including Scientific Data, S
 | 16:20 – 16:50     | Closing Ceremony & Best Paper Award                          |
 
 ### ORGANIZING COMMITTEE
-⠀**Student Organizing Committee:**
+⠀
+**Student Organizing Committee:**
+
 * Co-chairs:
   * Haolun LUO (PhD student, Department of Chinese and Bilingual Studies)
   * Jingjing ZHOU (PhD student, Department of Chinese and Bilingual Studies)
