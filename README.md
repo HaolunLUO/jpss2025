@@ -29,11 +29,14 @@ The Department of Chinese and Bilingual Studies at the Hong Kong Polytechnic Uni
 
 ⠀
 ### KEYNOTE SPEAKERS
+
 **Dr. Zhenghan QI**
+
 *Assistant Professor, Department of Communication Sciences and Disorders and Department of Psychology, Northeastern University, USA*
 Dr. Qi directs the Language Acquisition and Brain Laboratory (QLAB). Her research goal is to understand the neurobiological organization of language in the human brain, how that organization changes from childhood through adulthood, how it is disrupted in major neurodevelopmental language disorders, and how knowledge of that organization may enhance language learning and language intervention.
 She uses behavioral and neuroimaging techniques to study the relationship between language learning, cognitive skills, and brain development in both children and adults.
 **Keynote Title: Is Implicit Statistical Learning Special for Language Development?**
+
 **Abstract:** The implicit ability to detect and extract regularities and variabilities from sensory inputs is a building block of human cognition. However, the developmental trajectories paradoxically differ between implicit statistical learning across linguistic and non-linguistic domains. I will first present behavioral studies that demonstrate the asymmetry between domains. I will then discuss findings from fMRI and EEG work that point to different processing mechanisms between children and adults.
 
 **Professor Xin KANG**
