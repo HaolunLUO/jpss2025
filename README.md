@@ -144,4 +144,4 @@ All sessions will take place in Room HJ303, Faculty of Humanities, The Hong Kong
 Virtual platform options are available for remote participants. Connection details will be sent to registered participants.
 
 ### CONTACT INFORMATION
-For general inquiries: Email: ~[jpss2025@polyu.edu.hk](mailto:jpss2025@polyu.edu.hk)~
+For general inquiries: Email: [jpss2025@polyu.edu.hk](mailto:jpss2025@polyu.edu.hk)
