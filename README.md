@@ -47,7 +47,9 @@ Her work has been published in prestigious journals including Scientific Data, S
 **Abstract:** Understanding predictive language processing in autism spectrum disorder (ASD) is crucial for unraveling the cognitive mechanisms underlying communication challenges in this population. While existing studies suggest that individuals with ASD may anticipate upcoming linguistic information, most rely on eye-tracking paradigms with short sentences as stimuli, raising questions about generalizability. In this talk, I present empirical evidence collected from preschool children with ASD and neurotypical children in disadvantaged rural China. Our findings indicate that while children with ASD exhibit intact predictive abilities in simple language tasks, they face difficulties in more complex, real-time processing, particularly involving object-state changes. These results not only contribute to our understanding of language prediction in ASD but also underscore the importance of developing interventions that account for processing demands of complex linguistic stimuli.
 
 ### DETAILED PROGRAM
+
 **Day 1 · Tuesday 13 May 2025 · Room HJ303**
+
 | **Time** | **Item** |
 |:-:|:-:|
 | 08:00 – 09:00 | **Registration** |
@@ -70,7 +72,9 @@ Her work has been published in prestigious journals including Scientific Data, S
 | 16:00 – 16:20 | **Han Li et al.** – Entrepreneur or Capitalist? Discursive Constructions of a Deceased Business Leader in Digital Mourning Discourse |
 | 16:20 – 16:40 | **Ma Xiangyu & Liu Chun Yin** – L2 Proficiency Impacts on Valence and Word Type Effects in Emotion Word Processing |
 | 16:40 – 17:00 | **Vasundhara Srivastava et al.** – "Excited" versus "Worried": Coherence in Personal Narratives of Hindi-speaking Children with and without Autism |
+
 **Day 2 · Wednesday 14 May 2025 · Room HJ303**
+
 | **Time** | **Item** |
 |:-:|:-:|
 | 09:00 – 10:00 | **Keynote 2** – Dr. Zhenghan QI<br>*Is Implicit Statistical Learning Special for Language Development?* |
