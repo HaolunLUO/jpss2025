@@ -73,6 +73,7 @@ Her work has been published in prestigious journals including Scientific Data, S
 | 09:00 – 10:00 | **Keynote 2** – Dr. Zhenghan QI<br>*Is Implicit Statistical Learning Special for Language Development?* |
 | 10:00 – 10:30 | **Tea Break** |
 | 10:30 – 11:00 | **Poster Session** – *Room CF302* |
+
 **Posters:**
 **1** **Kwok Ho Ling** – A Stylometric Approach to Fictional Dynamics in Translation: Analyzing Activity and Descriptivity in Two English Versions of Hongloumeng
 **2** **Ruby Ka Yee Hui** – Communicating Genders: Visual Discourse Analysis of Hong Kong's Modern Children Magazine's Front Covers (1941–1951) through Machine Learning
