@@ -75,19 +75,33 @@ Her work has been published in prestigious journals including Scientific Data, S
 | 10:30 – 11:00 | **Poster Session** – *Room CF302* |
 
 **Posters:**
+
 **1** **Kwok Ho Ling** – A Stylometric Approach to Fictional Dynamics in Translation: Analyzing Activity and Descriptivity in Two English Versions of Hongloumeng
+
 **2** **Ruby Ka Yee Hui** – Communicating Genders: Visual Discourse Analysis of Hong Kong's Modern Children Magazine's Front Covers (1941–1951) through Machine Learning
+
 **3** **Yin Yilin** – Modality in Chinese-English Simultaneous Interpreting of the United Nations Security Council Meetings – A Corpus-based Study
+
 **4** **Han Yi** – A Corpus-Based Study: The Representation of Female PhDs in China's English-Language Reports
+
 **5** **Yi Xia** – UNEP's Evolving Priorities – A Diachronic Analysis of Annual Reports
+
 **6** **Li Jinge** – Bipartisanship and Blame-Avoidance Strategies in TikTok Congressional Hearing: A Two-part Discourse Analysis
+
 **7** **Li Yufei** – Enhancing Emotional Support: "I Understand"–A Discourse Analysis of Doctor-Caregiver Interactions on Alzheimer's Disease in China's Online Medical Platforms **(withdrawn)**
+
 **8** **Xiao Yu** – Research on the Effects of Foreign Social Media Influencers on the Construction and Communication of China's Image: An Analysis Based on the Video Comments of IShowSpeed's China Tour Livestream
+
 **9** **Xintong Xu** – Compare Chinese Orthographic Learning with English Orthographic Learning via Self-teaching: A Systematic Review and Meta-analysis
+
 **10** **Xinyu Yao** – Orthographic Facilitation in Spoken Vocabulary Acquisition: A Systematic Review
+
 **11** **Chan Hoi Tung Katherine & Jingbo Zhang** – Is Narrative Retelling Enough? A Comparison of Narrative Retelling and Spoken Expository Discourse in Cantonese-Speaking Tweens, Teens and Young Adults
+
 **12** **Qian Li** – Chic Branding and Cultural Inheritance: Multimodal Construction of Chinese Brand Identity on New Media of Creative Tourism
+
 **13** **Sha Lai** – Post-structural Feminist Perspective on *Where Angels Fear to Tread*: A Corpus-driven Analysis of Gender Narratives in Literary Translation
+
 **14** **Wanlin Zhu et al.** – Emotion Expression in Chinese Culture: Coherence in Personal Narratives of Mandarin-speaking Children
 
 | **Time**          | **Item**                                                     |
