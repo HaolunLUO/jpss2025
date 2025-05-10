@@ -1,5 +1,5 @@
 # Joint Postgraduate Student Symposium on Language, Culture and Cognition (JPSS2025)
-## May 13-14, 2025 • Faculty of Humanities, The Hong Kong Polytechnic University
+## May 13-14, 2025, Faculty of Humanities, The Hong Kong Polytechnic University
 
 # PROGRAM BOOK
 
