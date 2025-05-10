@@ -44,6 +44,7 @@ She uses behavioral and neuroimaging techniques to study the relationship betwee
 **Professor Xin KANG**
 
 *Professor, Research Centre for Language, Cognition and Language Application, Chongqing University, China*
+
 Prof. Xin Kang is a Professor at the Research Centre for Language, Cognition and Language Application at Chongqing University, China. She received her Ph.D. in Psychology from the University of York, UK. Her research focuses on the cognitive, neural, and genetic bases of language learning and processing, with particular emphasis on autism spectrum disorder (ASD). Using behavioral and neuroimaging techniques, including storytelling, eye-tracking, and ERPs, Dr. Kang investigates how both typically developing individuals and those with ASD process and learn language.
 Her work has been published in prestigious journals including Scientific Data, Science Advances, and npj Science of Learning. Currently, she leads multiple funded projects examining predictive language processing and mental representations in children with ASD and those living in disadvantaged conditions.
 
