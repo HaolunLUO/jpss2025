@@ -148,6 +148,7 @@ Her work has been published in prestigious journals including Scientific Data, S
   * Shum Cheuk Yee (Mphil student, Department of Chinese and Bilingual Studies)
 ⠀
 ### VENUE INFORMATION
+
 All sessions will take place in Room HJ303, Faculty of Humanities, The Hong Kong Polytechnic University, except for the Poster Session which will be held in Room CF302.
 Virtual platform options are available for remote participants. Connection details will be sent to registered participants.
 
